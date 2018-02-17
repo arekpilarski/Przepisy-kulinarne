@@ -1,0 +1,22 @@
+PRZELICZNIK GRAMATUR
+1 litr = 1000g
+1 jablko = 200g
+1 banan = 200g
+1 szklanka maki pszennej = 130g
+1 jajko = 60g
+1 lyzka cukru = 12g
+1 lyzka oleju = 10g
+1 cytryna = 80g
+1 szklanka ryzu = 190g
+1 szklanka p³ynu = 230g
+1 lyzka masla = 20g
+1 lyzeczka cynamonu = 4g
+1 lyzeczka proszku do pieczenia = 4g
+1 papryka = 230g
+1 por = 140g
+1 cebula = 105g
+1 zabek czosnku = 5g
+1 cukinia = 250g
+1 pomidor = 170g
+1 lyzka orzechow wloskich = 10g
+1 batat = 200g

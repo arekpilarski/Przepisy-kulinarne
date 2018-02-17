@@ -1,0 +1,123 @@
+*
+Czas: 70
+Skladnikow: 7
+makaron spaghetti
+200
+pomidor
+170
+cukinia
+250
+papryka
+230
+pieczarki
+150
+cebula
+105
+olej
+10
+Danie: Spaghetti bolognese
+
+*
+Czas: 30
+Skladnikow: 5
+makaron spaghetti
+400
+orzech wloski
+30
+parmezan
+150
+oliwa
+10
+czosnek
+5
+Danie: Spaghetti z orzechami
+
+*
+Czas: 30
+Skladnikow: 7
+makaron spaghetti
+87
+boczek
+60
+cebula
+50
+smietanka
+60
+jajka
+20
+czosnek
+3
+parmezan
+16
+Danie: Wloskie spaghetti carbonara
+
+*
+Czas: 15
+Skladnikow: 2
+makaron swiderki
+75
+pesto
+30
+Danie: Makaron swiderki z pesto
+
+*
+Czas: 25
+Skladnikow: 6
+makaron spaghetti
+50
+losos
+80
+kapary
+10
+oliwa z oliwek
+7
+czosnek
+3
+jogurt naturalny
+75
+Danie: Spaghetti z lososiem i kaparami
+
+*
+Czas: 15
+Skladnikow: 6
+makaron penne
+80
+szpinak
+150
+smietana
+18
+oliwa z oliwek
+5
+czosnek
+5
+parmezan
+8
+Danie: Makaron penne ze szpinakiem
+
+*
+Czas: 30
+Skladnikow: 6
+makaron penne
+80
+pomidor
+120
+baklazan
+120
+oliwa z oliwek
+15
+czosnek
+5
+parmezan
+8
+Danie: Makaron penne z sosem pomidorowym
+
+*
+Czas: 15
+Skladnikow: 6
+makaron swiderki
+40
+serek wiejski
+140
+truskawki
+60
+Danie: Makaron swiderki z serkiem i truskawkami

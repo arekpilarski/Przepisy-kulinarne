@@ -1,0 +1,193 @@
+*
+Czas: 15
+Skladnikow: 6
+jajka
+170
+cukinia
+600
+mleko
+45
+zabek czosnku
+5
+maslo
+15
+olej
+15
+Danie: Czosnkowa jajecznica z cukinia
+
+*
+Czas: 15
+Skladnikow: 8
+chleb
+140
+maslo klarowane
+80
+maslo
+40
+jajka
+170
+smietana
+15
+natka pietruszki
+12
+szczypiorek
+5
+ser gruyere
+30
+Danie: Jajecznica na tostach
+
+*
+Czas: 30
+Skladnikow: 11
+marchew
+180
+papryka
+200
+kukurydza
+130
+szczypiorek
+10
+natka pietruszki
+30
+mozzarella
+45
+papryka ostra mielona
+3
+jajka
+100
+mleko
+60
+maka
+60
+olej
+20
+Danie: Marchewkowo-kukurydziane placuszki
+
+*
+Czas: 15
+Skladnikow: 8
+bataty
+200
+maka
+150
+jajka
+50
+mleko
+150
+miod
+24
+proszek do pieczenia
+6
+cynamon
+4
+oliwa z oliwek
+30
+Danie: Pelnoziarniste pancakes z batatami
+
+*
+Czas: 15
+Skladnikow: 7
+jajka
+50
+tunczyk
+90
+szczypiorek
+5
+rzodkiewka
+15
+ser twarogowy
+60
+otreby owsiane
+14
+oliwa z oliwek
+10
+Danie: Owsiany omlet z tunczykiem
+
+*
+Czas: 20
+Skladnikow: 7
+olej
+10
+cebula
+80
+czosnek
+10
+papryczka chili
+10
+pomidor
+400
+jajka
+200
+szczypiorek
+10
+Danie: Szakszuka
+
+*
+Czas: 15
+Skladnikow: 4
+mleko
+200
+platki owsiane
+50
+banan
+140
+miod
+12
+Danie: Owsianka z maslem orzechowym i bananem
+
+*
+Czas: 35
+Skladnikow: 6
+kasza gryczana
+100
+proszek do pieczenia
+8
+jajka
+200
+banan
+48
+jablko
+200
+orzech wloski
+60
+Danie: Bananowo-jablkowe babeczki gryczane
+
+*
+Czas: 35
+Skladnikow: 8
+baklazan
+240
+mozzarella
+120
+oliwki czarne
+25
+rukola
+40
+pomidor
+320
+czosnek
+10
+cebula
+10
+oliwa z oliwek
+10
+Danie: Mini-pizza z baklazana
+
+*
+Czas: 20
+Skladnikow: 7
+maka
+130
+banan
+250
+mleko
+150
+jajka
+100
+proszek do pieczenia
+4
+pestki dyni
+40
+jogurt naturalny
+200
+Danie: Placuszki bezglutenowe z bananem

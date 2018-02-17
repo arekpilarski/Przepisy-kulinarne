@@ -1,0 +1,120 @@
+*
+Czas: 30
+Skladnikow: 5
+kasza jaglana
+100
+platki owsiane
+150
+mleko
+220
+siemie lniane
+10
+olej
+10
+Danie: Gofry jaglano-owsiane
+
+*
+Czas: 20
+Skladnikow: 7
+maka
+130
+banan
+250
+mleko
+150
+jajka
+100
+proszek do pieczenia
+4
+pestki dyni
+40
+jogurt naturalny
+200
+Danie: Placuszki bezglutenowe z bananem
+
+*
+Czas: 40
+Skladnikow: 8
+kasza gryczana
+180
+woda
+240
+cukinia
+250
+burak
+100
+marchew
+60
+cebula
+50
+oliwa z oliwek
+20
+natka pietruszki
+24
+Danie: Nalesniki z duszonymi warzywami
+
+*
+Czas: 50
+Skladnikow: 6
+ziemniaki
+1000
+cebula
+130
+czosnek
+10
+jajka
+100
+maka
+30
+olej
+40
+Danie: Placki ziemniaczane
+
+*
+Czas: 60
+Skladnikow: 6
+kasza jaglana
+360
+skrobia ziemniaczana
+130
+kefir
+240
+miod
+12
+woda
+120
+sezam
+40
+Danie: Bezglutenowy chleb jaglany
+
+*
+Czas: 10
+Skladnikow: 4
+jajka
+50
+ser twarogowy
+50
+majonez
+25
+szczypiorek
+5
+Danie: Pasta jajeczna
+
+*
+Czas: 20
+Skladnikow: 7
+mieso
+100
+olej
+3
+kapusta pekinska
+150
+kukurydza
+30
+ogorek
+100
+papryka
+100
+majonez
+25
+Danie: Salatka gyros

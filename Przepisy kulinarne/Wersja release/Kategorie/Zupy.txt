@@ -1,0 +1,204 @@
+*
+Czas: 15
+Skladnikow: 7
+mieso mielone
+63
+papryka
+29
+por
+200
+serek topiony
+400
+smietana
+200
+bulion
+1500
+maka
+100
+Danie: Gesta zupa serowa
+
+*
+Czas: 60
+Skladnikow: 6
+dynia
+500
+tymianek
+5
+cebula
+105
+zabek czosnku
+10
+mleko
+230
+cukinia
+230
+Danie: Kremowa zupa z dyni
+
+*
+Czas: 45
+Skladnikow: 7
+woda
+1500
+bulion
+30
+cebula
+100
+pomidor
+500
+smietana
+115
+maka
+20
+natka pietruszki
+5
+Danie: Zupa pomidorowa
+
+*
+Czas: 45
+Skladnikow: 7
+wywar warzywny
+720
+papryka
+1000
+cebula
+80
+marchew
+45
+czosnek
+15
+oliwa z oliwek
+30
+koncentrat pomidorowy
+45
+Danie: Krem z pieczonej papryki
+
+*
+Czas: 90
+Skladnikow: 10
+wolowina
+500
+papryka
+600
+ziemniaki
+525
+marchew
+50
+cebula
+90
+pietruszka
+40
+seler
+60
+koncentrat pomidorowy
+75
+olej
+30
+woda
+3000
+Danie: Zupa gulaszowa
+
+*
+Czas: 20
+Skladnikow: 6
+wywar warzywny
+180
+brokuly
+150
+marchew
+45
+czosnek
+5
+oliwa z oliwek
+10
+smietana
+18
+Danie: Krem z brokulow
+
+*
+Czas: 45
+Skladnikow: 9
+cebula
+20
+por
+50
+oliwa z oliwek
+5
+czosnek
+3
+marchew
+180
+wywar warzywny
+150
+mleko
+57
+jogurt naturalny
+25
+natka pietruszki
+6
+Danie: Krem z marchwi i pora
+
+*
+Czas: 30
+Skladnikow: 6
+pomidor
+500
+ogorek
+35
+papryka
+100
+cebula
+10
+limonka
+50
+oliwa z oliwek
+20
+Danie: Gazpacho
+
+*
+Czas: 35
+Skladnikow: 6
+wywar warzywny
+200
+marchew
+45
+ziemniaki
+75
+kasza jeczmienna
+17
+cebula
+20
+olej
+5
+Danie: Krupnik
+
+*
+Czas: 30
+Skladnikow: 5
+wywar warzywny
+200
+ogorek
+60
+ziemniaki
+50
+marchew
+20
+smietana
+18
+Danie: Ogorkowa ze smietana
+
+*
+Czas: 20
+Skladnikow: 6
+wywar warzywny
+1920
+ziemniaki
+225
+bukiet jarzyn
+450
+kalafior
+450
+smietana
+108
+koperek
+24
+Danie: Zupa jarzynowo-kalafiorowa

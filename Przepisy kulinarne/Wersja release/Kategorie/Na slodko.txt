@@ -1,0 +1,142 @@
+*
+Czas: 60
+Skladnikow: 10
+maka
+195
+migdaly
+100
+proszek do pieczenia
+10
+cynamon
+4
+jajka
+240
+cukier
+60
+maslo
+100
+olej
+40
+jablko
+150
+cytryna
+80
+Danie: Babka zytnia z jablkami
+
+*
+Czas: 30
+Skladnikow: 7
+jablko
+600
+maka
+390
+jajka
+120
+mleko
+500
+cukier
+24
+olej
+10
+cynamon
+12
+Danie: Racuchy z cynamonem
+
+*
+Czas: 70
+Skladnikow: 6
+ryz
+235
+mleko
+460
+woda
+230
+jablko
+1000
+maslo
+40
+cynamon
+12
+Danie: Zapiekany ryz z jablkami
+
+*
+Czas: 25
+Skladnikow: 9
+czekolada
+200
+kakao
+40
+olej
+50
+jajka
+150
+cukier
+120
+awokado
+280
+mleczko kokosowe
+60
+kawa
+10
+orzechy laskowe
+60
+Danie: Orzechowe brownie z awokado
+
+*
+Czas: 40
+Skladnikow: 7
+kasza jaglana
+180
+syrop klonowy
+100
+mleko
+350
+olej kokosowy
+50
+maka
+100
+kakao
+20
+cynamon
+8
+Danie: Korzenne ciasteczka
+
+*
+Czas: 10
+Skladnikow: 6
+jajka
+100
+platki owsiane
+40
+amarantus
+15
+siemie lniane
+20
+jogurt naturalny
+150
+zurawina
+24
+Danie: Jogurtowe placuszki z amarantusem
+
+*
+Czas: 30
+Skladnikow: 9
+komosa ryzowa
+100
+jajka
+100
+mleko
+100
+jablko
+150
+orzech wloski
+60
+siemie lniane
+40
+maka
+10
+cynamon
+4
+syrop klonowy
+10
+Danie: Placuszki z jablkiem i komosa ryzowa

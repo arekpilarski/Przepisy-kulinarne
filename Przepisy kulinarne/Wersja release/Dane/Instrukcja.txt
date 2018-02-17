@@ -1,0 +1,55 @@
+                             INSTRUKCJA UZYTKOWANIA
+
+                                      I
+Celem niniejszego programu kucharskiego jest pomoc uzytkownikowi w znalezieniu dania,
+ktore  bedzie on w stanie  przyrzadzic w oparciu o posiadane przez siebie  skladniki.
+
+                                      II 
+Aby skorzystac z wyszukiwarki dan zawartej w tym programie,  nalezy w pierwszej 
+kolejnosci  utworzyc  liste  posiadanych  przez siebie  skladnikow.  W procesie 
+tworzenia   tej   listy   pomaga   uzytkownikowi   Kreator   listy   skladnikow. 
+Dostep do niego uzyskuje sie wybierajac w menu glownym  opcje  "Wyszukaj dania", 
+a nastepnie  podajac kategorie, w ktorej chcemy szukac. 
+
+                                     III 
+Menu Kreatora zawiera wskazowki i polecenia, ktore pozwola w latwy sposob sporzadzic
+liste swoich skladnikow. Nalezy wprowadzic wszystkie skladniki, ktore maja byc uzyte
+do przygotowania dania, wraz z ich gramaturami.  Dodawane skladniki sa automatycznie 
+weryfikowane, tzn:
+- Program sprawdza, czy dodawany skladnik wystepuje w bazie;
+- Program sprawdza, czy dodawany skladnik nie widnieje juz na liscie;
+- Program sprawdza, czy gramatura dodawanego skladnika zostala podana w gramach.
+
+Uzytkownik jest na biezaco informowany o poprawnosci wprowadzanych przez siebie danych
+poprzez odpowiednie komunikaty wyswietlane na ekranie.
+
+                                      IV
+Po utworzeniu  listy  opcja "wyszukaj propozycji dan" rozpocznie proces przeszukiwania
+bazy danych programu celem znalezienia wszystkich dan z wybranej kategorii, do ktorych
+przygotowania nalezy uzyc wszystkich podanych przez uzytkownika skladnikow.
+
+                                       V
+Nastepnie wyswietlone zostanie okno ze znalezionymi daniami w postaci propozycji.
+W tym miejscu  uzytkownik moze dokonac  wyboru i wyswietlic przepis interesujacej
+go propozycji poprzez podanie nazwy dania. 
+
+                                      VI
+Wyswietlenie przepisu otwiera przed uzytkownikiem nastepujace mozliwosci:
+- Moze on wybrac dany przepis, co  spowoduje dopisanie  dania do listy 
+  ostatnio wybranych dan;
+- Moze on powrocic do widoku wyszukanych propozycji;
+- Mozliwy jest rowniez powrot do menu glownego bez dokonywania wyboru.
+
+                                      VII
+Z pozycji menu glownego mozliwe jest rowniez:
+- Wyswietlenie listy ostatnio wybranych dan oraz jej modyfikacja. 
+  Dodatkowo, z poziomu tej listy, mozna wyswietlic przepis interesujacego 
+  nas dania znajdujacego sie na tej liscie, lub spoza niej (jesli tylko
+  wystepuje w bazie);
+
+- Wyswietlenie przelicznika gramatur, pomocnego przy wprowadzaniu gramatur 
+  skladnikow. Jest on rowniez dostepny z poziomu Kreatora listy skladnikow;
+
+- Wyswietlenie instrukcji uzytkowania programu;
+
+- Wyjcie z programu.
